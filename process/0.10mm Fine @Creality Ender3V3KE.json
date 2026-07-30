@@ -1,0 +1,22 @@
+{
+    "from": "User",
+    "inherits": "0.12mm Fine @Creality Ender3V3KE",
+    "name": "0.10mm Fine @Creality Ender3V3KE",
+    "print_settings_id": "0.10mm Fine @Creality Ender3V3KE",
+    "print_extruder_id": ["1"],
+    "print_extruder_variant": ["Direct Drive Standard"],
+    "layer_height": "0.10",
+    "bottom_shell_layers": "6",
+    "top_shell_layers": "6",
+    "wall_loops": "3",
+    "outer_wall_speed": "100",
+    "inner_wall_speed": "150",
+    "internal_solid_infill_speed": "150",
+    "top_surface_speed": "100",
+    "gap_infill_speed": "100",
+    "sparse_infill_speed": "150",
+    "travel_speed": "300",
+    "initial_layer_speed": "40",
+    "filament_max_volumetric_speed": ["4"],
+    "version": "2.3.2.60"
+}
