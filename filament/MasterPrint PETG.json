@@ -1,0 +1,22 @@
+{
+    "filament_extruder_variant": ["Direct Drive Standard"],
+    "filament_settings_id": ["MasterPrint PETG"],
+    "from": "User",
+    "hot_plate_temp": ["80"],
+    "hot_plate_temp_initial_layer": ["80"],
+    "inherits": "Creality Generic PETG @Ender-3V3-all",
+    "name": "MasterPrint PETG",
+    "nozzle_temperature": ["230"],
+    "nozzle_temperature_initial_layer": ["235"],
+    "nozzle_temperature_range_low": ["220"],
+    "nozzle_temperature_range_high": ["250"],
+    "filament_max_volumetric_speed": ["8"],
+    "fan_max_speed": ["50"],
+    "fan_min_speed": ["20"],
+    "overhang_fan_speed": ["60"],
+    "slow_down_layer_time": ["8"],
+    "filament_retraction_length": ["1.5"],
+    "filament_retraction_speed": ["25"],
+    "filament_flow_ratio": ["0.96"],
+    "version": "2.3.2.60"
+}
